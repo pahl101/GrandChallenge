@@ -1,0 +1,63 @@
+\documentclass[a4paper]{article} %
+\usepackage{graphicx,amssymb} %
+
+\textwidth=15cm \hoffset=-1.2cm %
+\textheight=25cm \voffset=-2cm %
+
+\pagestyle{empty} %
+
+\date{} %
+
+\def\keywords#1{\begin{center}{\bf Keywords}\\{#1}\end{center}} %
+
+
+
+% Please, do not change any of the above lines
+
+
+
+
+
+
+
+
+\begin{document}
+
+% Type down your paper title
+\title{Hybridization of Medical Images: \\ Fusion of Echocardiogram and MRI}
+
+% Authors
+\author{AIMed MI3 Medical Imaging and Biomedical Diagnostics\\ \\%
+       Madison Pahl \\ % If any other author with different Affilation
+       Chapman University, Orange, California \\ % Affiliation 2 (if needed)
+       % New author \\
+       % New affiliation \\
+       % Add authors and affiliation as needed
+       \tt{pahl101@mail.chapman.edu} % Only one corresponding e-mail
+       }%
+
+
+\maketitle
+
+\thispagestyle{empty}
+
+
+
+% The abstract
+
+\begin{abstract}
+\emph{Introduction:} \\Acquiring and analyzing medical images is often a routine and critical part of the initial diagnosis and tracking the recovery process of a cardiac patient. The goal during the examination process is to optimize patient wait time and accuracy of diagnoses. Currently, echocardiography and magnetic resonance imaging (MRI) consist of the mainstay of imaging modalities used in the diagnosis of congenital heart disease from the fetus to the adult. The ECHO provides a two-dimensional view of the heart structure, and an accurate view of blood flow by leveraging a continuous or pulsed wave Doppler. However, due to the movement produced in the ultrasound, ECHOs often produce poor resolution and field of view for the physician to work with. MRIs are therefore used in conjunction with an ECHO to yield a clearer anatomic description of the heart. This process of continuously swapping between ECHOs and MRIs however, results in an elongated time to accurately diagnose a patient’s condition. \\\\ 
+
+
+\emph{Goal:} \\Hybridizing images, such as ECGs and MRIs, together will reduce the time needed to view and diagnose patient’s medical images, while enhancing the overall image quality. \\\\
+
+
+\emph{Method:} \\We will develop a system utilizing unsupervised machine-learning techniques including fuzzy logic and neural networks, to accurately fuse ECHOs and MRIs into a single view. The framework of our system will begin with an established set of enhancement filters, which will be selected and applied through fuzzy logic and algorithmic processes. Once enhanced, neural networks will be established to accurately determine placement of the ECHO onto the MRI. Using MATLAB programming platform and image processing technology, a medical image fusion of echocardiogram and MRI (“E.MRI”) can be formed by the following sequence: 1) segmentation of the color Doppler flow signal; 2) registration (both location and cardiac cycle) of color Doppler and magnetic resonance images; and 3) fusion of both color Doppler and magnetic resonance images using geometric transformation.\\\\
+
+\emph{Conclusion:} \\The resultant echocardiographic MRI yields important anatomic and hemodynamic information and facilitates the decision-making process for the cardiologist and cardiac surgeon. Future applications of the image fusion strategy can include three-dimensional images as well as image-directed therapy for congenital heart disease. With the success of this image fusion, we will be able to begin applying the system to other imaging combinations such as PET imaging with CT, extending the benefits of image hybridizations beyond cardiology. The advent of multimodal medical image fusion with accompanying algorithms that will incorporate feature extraction and artificial intelligence, will herald a new era in medical imaging with more robust decision-making.\\
+
+\end{abstract}
+
+\keywords{Hybridization, Image fusion, MATLAB, fuzzy logic, neural networks} % Write down at least 3 Keywords
+
+\end{document}
