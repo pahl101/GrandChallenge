@@ -9,7 +9,7 @@
     <key>CFBundleExecutable</key>
     <string>Slack Helper NP</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.slack.helper.NP</string>
+    <string>com.tinyspeck.slackmacgap.helper.NP</string>
     <key>CFBundleName</key>
     <string>Slack Helper NP</string>
     <key>CFBundlePackageType</key>

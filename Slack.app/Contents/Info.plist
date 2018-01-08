@@ -19,11 +19,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.8.2</string>
+	<string>3.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>4331</string>
+	<string>4509</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.business</string>
 	<key>LSMinimumSystemVersion</key>
@@ -45,5 +45,22 @@
 	</array>
 	<key>NSSupportsAutomaticGraphicsSwitching</key>
 	<true/>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>slacktoken</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>slack-key.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Slack token</string>
+			<key>CFBundleTypeRole</key>
+			<string>Shell</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+		</dict>
+	</array>
 </dict>
 </plist>

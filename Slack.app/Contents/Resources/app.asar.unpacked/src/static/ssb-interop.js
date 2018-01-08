@@ -1,36 +1,41 @@
-//do not migrate preload script into TypeScript
+/**
+ * The preload script needs to stay in regular ole JavaScript, because it is
+ * the point of entry for electron-compile.
+ */
+
 require('../stat-cache');
 
+const { init } = require('electron-compile');
+const { assignIn } = require('lodash');
+const path = require('path');
+
+const { isPrebuilt } = require('../utils/process-helpers');
 const profiler = require('../utils/profiler.js');
+
 if (profiler.shouldProfile()) profiler.startProfiling();
 
-let assignIn = require('lodash').assignIn;
-let path = require('path');
-let isPrebuilt = require('../utils/process-helpers').isPrebuilt;
-
-// tslint:disable-next-line
 process.on('uncaughtException', (e) => console.error(e));
 
-// Warning: You almost certainly do *not* want to edit this code - instead, you
-// want to edit src/ssb/main.js instead
-let start = function(loadSettings) {
-  window.loadSettings = loadSettings;
-
-  const mainModule = path.join(loadSettings.resourcePath, 'src', 'ssb', 'main.ts');
-  const isDevMode = loadSettings.devMode && isPrebuilt();
-  require('electron-compile').init(loadSettings.resourcePath, mainModule, !isDevMode);
-};
-
+/**
+ * Patch Node.js globals back in, refer to
+ * https://electron.atom.io/docs/api/process/#event-loaded.
+ */
 const processRef = window.process;
-process.nextTick(function() { // eslint-disable-line
-  // Patch global back in
+process.once('loaded', () => {
   window.process = processRef;
 });
 
-// NB: For whatever reason, we have to wait longer to restore 'global'
-// Update (2017.Jan.18): This context 'restoration' causes unexpected state mutation in post,
-// especially related to check selection state via $("selection.user") when compositionupdate event fired.
-// As it does not have clear usecases at the moment, blocking it to prevent webapp abnormality
-// setTimeout(function() { window.global = window; }, 10);
+/**
+ * loadSettings are just the command-line arguments we're concerned with, in
+ * this case developer vs production mode.
+ */
+const loadSettings = window.loadSettings = assignIn({},
+  require('electron').remote.getGlobal('loadSettings'),
+  { windowType: 'webapp' }
+);
 
-start(assignIn({}, require('electron').remote.getGlobal('loadSettings'), { windowType: 'WEBAPP' }));
+const resourcePath = path.join(__dirname, '..', '..');
+const mainModule = require.resolve('../ssb/main.ts');
+const isDevMode = loadSettings.devMode && isPrebuilt();
+
+init(resourcePath, mainModule, !isDevMode);

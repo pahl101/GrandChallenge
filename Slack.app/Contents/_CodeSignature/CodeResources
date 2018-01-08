@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Credits.html</key>
+		<data>
+		yYnsKOHfULQge4pzJtLJ4ebCXow=
+		</data>
 		<key>Resources/LICENSE</key>
 		<data>
-		755jITFgxd5v4tdiRC3M9dQKBck=
+		yTdHUU5Ba1wquEAl/iFrXOy4n8s=
 		</data>
 		<key>Resources/LICENSES.chromium.html</key>
 		<data>
-		7JqazMqUbukmogPlTdauKAro00Y=
+		wGR2cnZT/hmNckTjfI/yd4QF1UA=
 		</data>
 		<key>Resources/animal_stick.mp3</key>
 		<data>
@@ -18,55 +22,43 @@
 		</data>
 		<key>Resources/app.asar</key>
 		<data>
-		v0YuI1FI4DcF54OHYhFa1dz2d2s=
+		kvfPEvqHQzT9ZdGw53nBi3bif3Y=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/cld/build/Release/cld.node</key>
 		<data>
-		pH1vrfagpcoNjWg5wucswjcyxnM=
+		eZ/9qOArCIhEebO1bUp9sEuJe9o=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/spellchecker/build/Release/spellchecker.node</key>
 		<data>
-		L24Zq6oq9mcTdmFR8KzrHw+7Dew=
+		SGB+wI+rFIi+EEvWumu7r4LCKZ4=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/system-idle-time/build/Release/system_idle_time.node</key>
 		<data>
-		kLRk58Yo5+UUabNw28xt7Iz5A00=
+		82NJxvwghZ0HdvBEkKWlmUo4bcQ=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/v8-profiler/build/Release/profiler.node</key>
 		<data>
-		ROz+jM1MbWTs8SabLxI2aNnoWj8=
-		</data>
-		<key>Resources/app.asar.unpacked/node_modules/@slack/macgap-pref-reader/build/Release/macgap_pref_reader.node</key>
-		<data>
-		Ay0oPSRoVMPNQa4lGfXQM+it8bs=
+		lGLiPLnLBOz7g0tcHQDP1/zKk5w=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/@slack/slack-calls/build/Release/slack-calls.node</key>
 		<data>
-		ioqclyzCk7iuScrWO2tuZ/v/K9k=
+		nT/ElY1sFTVab5jtQSafexL+jAI=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/keyboard-layout/build/Release/keyboard-layout-manager.node</key>
 		<data>
-		xT+1KnqMrKLKooVCpQvctB4FSqM=
+		NHcV4utvyBs6CcS+54TYfmprtBo=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/keytar/build/Release/keytar.node</key>
 		<data>
-		8h/xaYCS5gitXl/3P4+PK8Al7SY=
-		</data>
-		<key>Resources/app.asar.unpacked/node_modules/node-mac-notifier/build/Release/Notification.node</key>
-		<data>
-		ZBWWPIHpEqcrtZ6h+mAmrLkjx0k=
-		</data>
-		<key>Resources/app.asar.unpacked/node_modules/nslog/build/Release/nslog.node</key>
-		<data>
-		SPYkHsWUgCMYVp2peUuuNjjJhyo=
+		rNJscqNAxUdEpzXBkpm/fZL53hE=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/runas/build/Release/runas.node</key>
 		<data>
-		OJ4TFvZNJESvPH2iu1ik2wzuPiQ=
+		wXSDFnIxOjSTM6V9WkM6q0E3vbc=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/windows-active-process/build/Release/processname.node</key>
 		<data>
-		u46PkWt9tVhe1BnWthFu1hflzys=
+		5SSm55qcxIlkRrEzEh+pYsQl2/c=
 		</data>
 		<key>Resources/app.asar.unpacked/node_modules/windows-notification-state/build/Release/notificationstate.node</key>
 		<data>
@@ -76,7 +68,7 @@
 		<data>
 		6JvCploPnixUdLptJ1sgVBLLeDw=
 		</data>
-		<key>Resources/app.asar.unpacked/src/static/Hash.png</key>
+		<key>Resources/app.asar.unpacked/src/static/Hash@1x.png</key>
 		<data>
 		TqdEIgfsy+ZbfNQrZxTxwPOFARQ=
 		</data>
@@ -136,6 +128,10 @@
 		<data>
 		LPK783jFU8M3TzCn8OzR7ryxVMg=
 		</data>
+		<key>Resources/app.asar.unpacked/src/static/noto.less</key>
+		<data>
+		lHch0j35tLZWWNoOF1eZq6fNwUw=
+		</data>
 		<key>Resources/app.asar.unpacked/src/static/override/dropins.js</key>
 		<data>
 		NWBEI4AmkN1nq1U/ujSP0lSwo14=
@@ -154,7 +150,7 @@
 		</data>
 		<key>Resources/app.asar.unpacked/src/static/slack-icons-font.less</key>
 		<data>
-		RjrLwNsIqi1vs8PPYG3MzQ54M/o=
+		9PjZqojxXnZ7N9xAfO8vrOnsds0=
 		</data>
 		<key>Resources/app.asar.unpacked/src/static/slack-menubar-highlight.png</key>
 		<data>
@@ -204,13 +200,13 @@
 		<data>
 		6h7xaV/EnxZ/9TPna46+olu6swo=
 		</data>
-		<key>Resources/app.asar.unpacked/src/static/ssb-interop-lite.js</key>
-		<data>
-		f8/HSuu/1hxpNp/+GG0WO9PmRfc=
-		</data>
 		<key>Resources/app.asar.unpacked/src/static/ssb-interop.js</key>
 		<data>
-		wj9SfpZ4mq5Vp2wQ2HxwGK5ws78=
+		865b/BpugTnoYPxno5rVwyzNGps=
+		</data>
+		<key>Resources/app.asar.unpacked/src/static/ssb-signin-preload.js</key>
+		<data>
+		zgfjPCLlSpZeL0dmvZme42Gso0E=
 		</data>
 		<key>Resources/app.asar.unpacked/src/static/ts_icon_arrow_large_left.svg</key>
 		<data>
@@ -219,10 +215,6 @@
 		<key>Resources/app.asar.unpacked/src/static/ts_icon_times_circle.svg</key>
 		<data>
 		sdYED7OsqXWcUbXKavYdKks9o30=
-		</data>
-		<key>Resources/atom.icns</key>
-		<data>
-		HAOd6s/5QzVEo4rIV5RDsH2KIW8=
 		</data>
 		<key>Resources/b2.mp3</key>
 		<data>
@@ -278,11 +270,11 @@
 		</data>
 		<key>Resources/electron.asar</key>
 		<data>
-		0H78xNaPNQoC82X+tkuWXDtNemE=
+		e49E35Dqq9En8miabqMVt/XDpNk=
 		</data>
 		<key>Resources/electron.icns</key>
 		<data>
-		utx8MXWPMS8tQlcn0gBaujkxZcg=
+		HAOd6s/5QzVEo4rIV5RDsH2KIW8=
 		</data>
 		<key>Resources/flitterbug.mp3</key>
 		<data>
@@ -312,6 +304,10 @@
 		<data>
 		JcLvtSY0qhQ8iSgl4mhSrOlBMOc=
 		</data>
+		<key>Resources/slack-key.icns</key>
+		<data>
+		6PFKjNeUMiKWrU50yf7DuSDgN/8=
+		</data>
 		<key>Resources/slack.icns</key>
 		<data>
 		HAOd6s/5QzVEo4rIV5RDsH2KIW8=
@@ -323,7 +319,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			TQb6nyJ9iVtvFdSFKJ+DxZXRFeA=
+			o2s+GCcG9TknFiytcyhirBsMpFw=
 			</data>
 			<key>requirement</key>
 			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BQR82RBBHL) and identifier "com.github.electron.framework"</string>
@@ -332,49 +328,60 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0XIej+mpIKdusa4scYITORdaOps=
+			kChK2tXTWV92qZnMmthxEQYKogk=
 			</data>
 			<key>requirement</key>
-			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BQR82RBBHL) and identifier "com.electron.slack.helper.EH"</string>
+			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BQR82RBBHL) and identifier "com.tinyspeck.slackmacgap.helper.EH"</string>
 		</dict>
 		<key>Frameworks/Slack Helper NP.app</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			AGam4/wc8mjK+Gpv3ORdhKxmbC8=
+			A90ZklkeeAWesShYfMxA2D0dVmo=
 			</data>
 			<key>requirement</key>
-			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BQR82RBBHL) and identifier "com.electron.slack.helper.NP"</string>
+			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BQR82RBBHL) and identifier "com.tinyspeck.slackmacgap.helper.NP"</string>
 		</dict>
 		<key>Frameworks/Slack Helper.app</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			pJpOI2jP9jyMmNJUnpp9kW8c5sk=
+			cAvn7eV5o5lIMQsAEaalLdG2Qv8=
 			</data>
 			<key>requirement</key>
 			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BQR82RBBHL) and identifier "com.tinyspeck.slackmacgap.helper"</string>
+		</dict>
+		<key>Resources/Credits.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yYnsKOHfULQge4pzJtLJ4ebCXow=
+			</data>
+			<key>hash2</key>
+			<data>
+			7ZqccC6zxJmnQCDBrBsEqox1Bg9Z6QMy3Mx5BI+tJJw=
+			</data>
 		</dict>
 		<key>Resources/LICENSE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			755jITFgxd5v4tdiRC3M9dQKBck=
+			yTdHUU5Ba1wquEAl/iFrXOy4n8s=
 			</data>
 			<key>hash2</key>
 			<data>
-			IQvzHoaWALESEuecQDTpDNqXNa51HN3IyOGDJd6d9cc=
+			z98IyBIQwmjugwz7/OdjbRYwQgSJkYU6AX7XRz0+2bU=
 			</data>
 		</dict>
 		<key>Resources/LICENSES.chromium.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7JqazMqUbukmogPlTdauKAro00Y=
+			wGR2cnZT/hmNckTjfI/yd4QF1UA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKQsQ1qQnjbfFUS+KPa5GIl2DRKBYR51ecPyOthwzfc=
+			wDMJKH3v4dsx6ZoA/FculvGeQwo4/9zUHgKDPBvgNWU=
 			</data>
 		</dict>
 		<key>Resources/animal_stick.mp3</key>
@@ -392,143 +399,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v0YuI1FI4DcF54OHYhFa1dz2d2s=
+			kvfPEvqHQzT9ZdGw53nBi3bif3Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			XGQmhBT3oqzY6zb2X7bvd4YsAKGep7JfL323gWLgqNY=
+			auAZXQ11RHcV6iFSUhrRqR08nrxn/CFzi75k4UzXipA=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/cld/build/Release/cld.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pH1vrfagpcoNjWg5wucswjcyxnM=
+			eZ/9qOArCIhEebO1bUp9sEuJe9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vd+Ajrtew2B9vQTFKLPb/woGJsB3scwm7Lv2c7xcOqQ=
+			PdWniaKdSMy5PtraKbg6IYBHQtarR99YzBsQe+N0O28=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/spellchecker/build/Release/spellchecker.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L24Zq6oq9mcTdmFR8KzrHw+7Dew=
+			SGB+wI+rFIi+EEvWumu7r4LCKZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			HIp5SMcwv+de8ehNfwqFxL7DPoeuo4+HWZU8335N6/s=
+			cO11GUpZRp2zfjSh41vqWjh/IPG+uSsKZvv+0WjIdII=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/system-idle-time/build/Release/system_idle_time.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kLRk58Yo5+UUabNw28xt7Iz5A00=
+			82NJxvwghZ0HdvBEkKWlmUo4bcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			2TMHDehSofWbWn0xmipJn2QiAXyttutYe+eFVlWQnDI=
+			UoPV5DHahtpVxjMW42nxIW46eex74x9qf2vfD5pqhOQ=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/@paulcbetts/v8-profiler/build/Release/profiler.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ROz+jM1MbWTs8SabLxI2aNnoWj8=
+			lGLiPLnLBOz7g0tcHQDP1/zKk5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			xaoF/0V4f7YXaWvvP7n84QhHBNb/vYgnWzgeQ9QQ3Bg=
-			</data>
-		</dict>
-		<key>Resources/app.asar.unpacked/node_modules/@slack/macgap-pref-reader/build/Release/macgap_pref_reader.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ay0oPSRoVMPNQa4lGfXQM+it8bs=
-			</data>
-			<key>hash2</key>
-			<data>
-			WcH6ClZuOEMAi0XrEpuyYW9M7/qpW7/SgBoxk3XfU8Y=
+			+M+zz+3yVaF+GA2VaFC/vv42mcnSp2lRm5ixdTmKLLU=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/@slack/slack-calls/build/Release/slack-calls.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ioqclyzCk7iuScrWO2tuZ/v/K9k=
+			nT/ElY1sFTVab5jtQSafexL+jAI=
 			</data>
 			<key>hash2</key>
 			<data>
-			7d7S9ItzsEhFrX15plqjI6at6KFrFwNOASGRk4EDCKA=
+			fUa03p4j5Ax5DegUYw2nwJ6UomasXIJ22fB5PmWxApk=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/keyboard-layout/build/Release/keyboard-layout-manager.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xT+1KnqMrKLKooVCpQvctB4FSqM=
+			NHcV4utvyBs6CcS+54TYfmprtBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			dm5jFxiFCVQJJQIYAvjozqAZxILcLBCJ+mFGsTGk4yM=
+			C/irACO9EG81FkKiGl+j2RuhIN6s9KU9z49s94ZBFiM=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/keytar/build/Release/keytar.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8h/xaYCS5gitXl/3P4+PK8Al7SY=
+			rNJscqNAxUdEpzXBkpm/fZL53hE=
 			</data>
 			<key>hash2</key>
 			<data>
-			4C+BR8Ca6LkbXY6SDim/x4tMbUQCg4L9AIFjbZG4PP8=
-			</data>
-		</dict>
-		<key>Resources/app.asar.unpacked/node_modules/node-mac-notifier/build/Release/Notification.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZBWWPIHpEqcrtZ6h+mAmrLkjx0k=
-			</data>
-			<key>hash2</key>
-			<data>
-			QxlgNQFJV7fiHI93p1a10uuKJK4KGZ5irwehIoNRT4k=
-			</data>
-		</dict>
-		<key>Resources/app.asar.unpacked/node_modules/nslog/build/Release/nslog.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SPYkHsWUgCMYVp2peUuuNjjJhyo=
-			</data>
-			<key>hash2</key>
-			<data>
-			ybsTHInqGq2Uh1wI5zez4vSPlz2olmpluz18TwRhWV0=
+			3Fb1kK6MfkH1EQD/ZiUFmOQGjJbmmGvMHEe5+kCvwRY=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/runas/build/Release/runas.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OJ4TFvZNJESvPH2iu1ik2wzuPiQ=
+			wXSDFnIxOjSTM6V9WkM6q0E3vbc=
 			</data>
 			<key>hash2</key>
 			<data>
-			nuU+kWoBfibP05DfWf8ZTi1RmQtP+oUR5tHq0ZJGbp4=
+			53r6Xg0qxGxR+w2YWgkqhMs+xerbBx6zsEkjLKNWAb8=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/windows-active-process/build/Release/processname.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u46PkWt9tVhe1BnWthFu1hflzys=
+			5SSm55qcxIlkRrEzEh+pYsQl2/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			OJxQTraH7lwGyP5j4RM+ilK2K8pqWfeKI7oDYI62kCQ=
+			JlmumqjM5TbiObW+l0qpflBWO8nMXWSWTKgcvHMgTuc=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/node_modules/windows-notification-state/build/Release/notificationstate.node</key>
@@ -553,7 +527,7 @@
 			pSxeI8THZxF5YKCTwtY9oZsm1qi7BtBpGIQ9Yzx9Wwg=
 			</data>
 		</dict>
-		<key>Resources/app.asar.unpacked/src/static/Hash.png</key>
+		<key>Resources/app.asar.unpacked/src/static/Hash@1x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -718,6 +692,17 @@
 			Ni+jOxqBaG7KQD17+L+LQnRCu1MVX9o3x6RvcQs1mK0=
 			</data>
 		</dict>
+		<key>Resources/app.asar.unpacked/src/static/noto.less</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lHch0j35tLZWWNoOF1eZq6fNwUw=
+			</data>
+			<key>hash2</key>
+			<data>
+			V+vKDK2Weyv5wA1y1zaOx1Ntr/8ndN5PgiALNceGdlM=
+			</data>
+		</dict>
 		<key>Resources/app.asar.unpacked/src/static/override/dropins.js</key>
 		<dict>
 			<key>hash</key>
@@ -766,11 +751,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RjrLwNsIqi1vs8PPYG3MzQ54M/o=
+			9PjZqojxXnZ7N9xAfO8vrOnsds0=
 			</data>
 			<key>hash2</key>
 			<data>
-			E3LWBjItZkGOo9yLPefGr8JxFmWXrr2wOLjtA+QC6QM=
+			juSzoWzIDLUHT0SRNIn+C+W/klUm7UlnZhgQta+o/AE=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/src/static/slack-menubar-highlight.png</key>
@@ -905,26 +890,26 @@
 			7z4wY6fMJrM4F/dZ8hVHnD8nE58rma3NT6Imkyoy6kA=
 			</data>
 		</dict>
-		<key>Resources/app.asar.unpacked/src/static/ssb-interop-lite.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f8/HSuu/1hxpNp/+GG0WO9PmRfc=
-			</data>
-			<key>hash2</key>
-			<data>
-			AGAPTDTqThCfGcAzC++LbhxjpJlCjR8jzFgFohW0eDU=
-			</data>
-		</dict>
 		<key>Resources/app.asar.unpacked/src/static/ssb-interop.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wj9SfpZ4mq5Vp2wQ2HxwGK5ws78=
+			865b/BpugTnoYPxno5rVwyzNGps=
 			</data>
 			<key>hash2</key>
 			<data>
-			FiA+5a2Dt/7LgpESwegEVDZLJ69UutCh7VxdosSUARs=
+			Q1PNsTsevwwswM+mCuEob0WsdDx8hckFlewK0lVXJUo=
+			</data>
+		</dict>
+		<key>Resources/app.asar.unpacked/src/static/ssb-signin-preload.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zgfjPCLlSpZeL0dmvZme42Gso0E=
+			</data>
+			<key>hash2</key>
+			<data>
+			NRnp3KR8VfEI0Txo/4unaWl0517HtHbFiBOcjuhYZtQ=
 			</data>
 		</dict>
 		<key>Resources/app.asar.unpacked/src/static/ts_icon_arrow_large_left.svg</key>
@@ -947,17 +932,6 @@
 			<key>hash2</key>
 			<data>
 			dkxH3QGh4gWFsun2BEIvHolhUIGsckuEk1Sg7kgTx2M=
-			</data>
-		</dict>
-		<key>Resources/atom.icns</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HAOd6s/5QzVEo4rIV5RDsH2KIW8=
-			</data>
-			<key>hash2</key>
-			<data>
-			kolmk1RXmUAS9oOMw/3CixqfoD93AAyYbj8SMHg2nLg=
 			</data>
 		</dict>
 		<key>Resources/b2.mp3</key>
@@ -1107,22 +1081,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0H78xNaPNQoC82X+tkuWXDtNemE=
+			e49E35Dqq9En8miabqMVt/XDpNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			OQz1LtYT2onIXjbPOobEny0JF3Z5raQBBiqws7x/KdI=
+			AGRkmvXkD65JudcOHEhE0qvhkJ+Of/jKcOnIJEBwN9E=
 			</data>
 		</dict>
 		<key>Resources/electron.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			utx8MXWPMS8tQlcn0gBaujkxZcg=
+			HAOd6s/5QzVEo4rIV5RDsH2KIW8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bq0qvK5V4I4ANZLb9BZ3brF5PAYBSXPpWpt6fx3EkRw=
+			kolmk1RXmUAS9oOMw/3CixqfoD93AAyYbj8SMHg2nLg=
 			</data>
 		</dict>
 		<key>Resources/flitterbug.mp3</key>
@@ -1200,6 +1174,17 @@
 			<key>hash2</key>
 			<data>
 			Zswuc68TpwKq3F+xXMNl07RFuXN3rvnjclFWMrrXHrI=
+			</data>
+		</dict>
+		<key>Resources/slack-key.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6PFKjNeUMiKWrU50yf7DuSDgN/8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TzX28Y31D8UKmzMSaKt5r9IuyTqMcRiuU6xR0G0rnms=
 			</data>
 		</dict>
 		<key>Resources/slack.icns</key>
